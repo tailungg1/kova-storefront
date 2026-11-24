@@ -1,0 +1,6 @@
+{
+  "name": "KOVA — Contemporary Fashion Storefront",
+  "description": "Minimalist contemporary fashion and accessories storefront for KOVA in Newcastle upon Tyne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
